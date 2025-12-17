@@ -20,13 +20,13 @@ Bot para administrar bases com sistema de reservas, histórico e fotos.
 ## 🔧 Configuração
 Crie um arquivo `.env` com:
 
-DISCORD_TOKEN=seu_token
-GUILD_ID=id_servidor
-CANAL_VENDAS_ID=id_canal
-EMBED_TITLE=Título
-EMBED_DESCRIPTION=Descrição
-TOTAL_BASES=14
-CARGO_ADM_ID=id_cargo_adm
+- DISCORD_TOKEN=seu_token
+- GUILD_ID=id_servidor
+- CANAL_VENDAS_ID=id_canal
+- EMBED_TITLE=Título
+- EMBED_DESCRIPTION=Descrição
+- TOTAL_BASES=14
+- CARGO_ADM_ID=id_cargo_adm
 
 
 ## 📁 Estrutura
