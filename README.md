@@ -34,5 +34,3 @@ Crie um arquivo `.env` com:
 - `bases.db` - Banco de dados (não versionado)
 - `config.py` - Configurações (não versionado)
 
-## 📞 Contato
-[Seu nome ou servidor Discord]
